@@ -120,3 +120,15 @@ The codes are released under the MIT License.
 
 **后置处理过程说明参见
 [后置处理(含原理图)](https://huoyijie.github.io/zh-Hans/2018/08/27/AdvancedEAST%E5%90%8E%E7%BD%AE%E5%A4%84%E7%90%86%E5%8E%9F%E7%90%86%E7%AE%80%E4%BB%8B/)**
+
+### 代码研读博客，便于理解———李剑20190516
+https://blog.csdn.net/yicuncuntu1101/article/details/84855798
+用自己的数据训练AdvancedEAST
+https://blog.csdn.net/linchuhai/article/details/84677249
+EAST文本检测与Keras实现  （就是来源于huoyijie，但是包含huoyijie源码有bug,博客有调整和复现）
+http://www.pianshen.com/article/5870253952/
+EAST-tensorflow 源码解读
+https://blog.csdn.net/zhangwei15hh/article/details/79899300
+EAST原理及代码理解
+
+
