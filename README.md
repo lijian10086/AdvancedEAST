@@ -130,5 +130,6 @@ http://www.pianshen.com/article/5870253952/
 EAST-tensorflow 源码解读
 https://blog.csdn.net/zhangwei15hh/article/details/79899300
 EAST原理及代码理解
-
+https://blog.csdn.net/liuxiaoheng1992/article/details/82870923
+EAST: An Efficient and Accurate Scene Text Detector 自然场景下的文字识别算法详解
 
