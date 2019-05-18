@@ -134,3 +134,4 @@ The codes are released under the MIT License.
 *EAST: An Efficient and Accurate Scene Text Detector 自然场景下的文字识别算法详解
 *https://www.jianshu.com/p/8db0ec29aaab
 *文字检测算法之Pixel-Anchor, 结合anchor-based和pixel-based的检测方法的特性,检测与分割结合 (李剑注：里面包含针对EAST的改进方法——ASPP、OHEM，EAST针对分割和回归加入OHEM后f1-score可以从80.72提升至85.31)
+*(https://github.com/lijian10086/AdvancedEAST/blob/master/%E6%9D%8E%E5%89%91%E6%96%87%E6%A1%A3/740716-6056cba8ad9a7e97.png)*
