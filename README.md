@@ -124,6 +124,8 @@ The codes are released under the MIT License.
 ### 代码研读博客，便于理解———李剑20190516
 *https://blog.csdn.net/yicuncuntu1101/article/details/84855798
 *用自己的数据训练AdvancedEAST
+*https://www.cnblogs.com/lillylin/p/9954981.html
+*【论文翻译】2017EAST
 *https://blog.csdn.net/linchuhai/article/details/84677249
 *EAST文本检测与Keras实现  （就是来源于huoyijie，但是包含huoyijie源码有bug,博客有调整和复现）
 *http://www.pianshen.com/article/5870253952/
