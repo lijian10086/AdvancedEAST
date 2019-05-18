@@ -132,4 +132,5 @@ https://blog.csdn.net/zhangwei15hh/article/details/79899300
 EAST原理及代码理解
 https://blog.csdn.net/liuxiaoheng1992/article/details/82870923
 EAST: An Efficient and Accurate Scene Text Detector 自然场景下的文字识别算法详解
-
+https://www.jianshu.com/p/8db0ec29aaab
+文字检测算法之Pixel-Anchor, 结合anchor-based和pixel-based的检测方法的特性,检测与分割结合
