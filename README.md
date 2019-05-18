@@ -122,15 +122,15 @@ The codes are released under the MIT License.
 [后置处理(含原理图)](https://huoyijie.github.io/zh-Hans/2018/08/27/AdvancedEAST%E5%90%8E%E7%BD%AE%E5%A4%84%E7%90%86%E5%8E%9F%E7%90%86%E7%AE%80%E4%BB%8B/)**
 
 ### 代码研读博客，便于理解———李剑20190516
-https://blog.csdn.net/yicuncuntu1101/article/details/84855798
-用自己的数据训练AdvancedEAST
-https://blog.csdn.net/linchuhai/article/details/84677249
-EAST文本检测与Keras实现  （就是来源于huoyijie，但是包含huoyijie源码有bug,博客有调整和复现）
-http://www.pianshen.com/article/5870253952/
-EAST-tensorflow 源码解读
-https://blog.csdn.net/zhangwei15hh/article/details/79899300
-EAST原理及代码理解
-https://blog.csdn.net/liuxiaoheng1992/article/details/82870923
-EAST: An Efficient and Accurate Scene Text Detector 自然场景下的文字识别算法详解
-https://www.jianshu.com/p/8db0ec29aaab
-文字检测算法之Pixel-Anchor, 结合anchor-based和pixel-based的检测方法的特性,检测与分割结合
+*https://blog.csdn.net/yicuncuntu1101/article/details/84855798
+*用自己的数据训练AdvancedEAST
+*https://blog.csdn.net/linchuhai/article/details/84677249
+*EAST文本检测与Keras实现  （就是来源于huoyijie，但是包含huoyijie源码有bug,博客有调整和复现）
+*http://www.pianshen.com/article/5870253952/
+*EAST-tensorflow 源码解读
+*https://blog.csdn.net/zhangwei15hh/article/details/79899300
+*EAST原理及代码理解
+*https://blog.csdn.net/liuxiaoheng1992/article/details/82870923
+*EAST: An Efficient and Accurate Scene Text Detector 自然场景下的文字识别算法详解
+*https://www.jianshu.com/p/8db0ec29aaab
+*文字检测算法之Pixel-Anchor, 结合anchor-based和pixel-based的检测方法的特性,检测与分割结合 (李剑注：里面包含针对EAST的改进方法——ASPP、OHEM，EAST针对分割和回归加入OHEM后f1-score可以从80.72提升至85.31)
